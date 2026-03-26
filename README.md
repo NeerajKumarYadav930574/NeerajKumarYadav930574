@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Neeraj Singh 👋
 
-<!--
-**NeerajKumarYadav930574/NeerajKumarYadav930574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | VIT Bhopal  
+📅 First Year (2025–2029)
 
-Here are some ideas to get you started:
+💡 I am passionate about learning programming, building projects, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Goal: To achieve a high-paying tech career and continuously improve my skills in software development.
+
+📌 Currently Learning:
+- C++ / Python
+- Data Structures (starting soon)
+- Git & GitHub
+
+📫 Connect with me:
+- LinkedIn: (add your link)
